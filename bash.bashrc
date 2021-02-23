@@ -5,11 +5,11 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;3
 clear
 mpv /$HOME/TERMUX-WELCOME/terminal.mp3
 clear
-echo -e "Created By github.com/itzr00tbyte" | lolcat
+echo -e "Created By github.com/eswarmani056" | lolcat
 echo "----------------------------" | lolcat
-echo "BY script kiddie Youtube channel " | lolcat
+echo "BY kinemaster Youtube channel " | lolcat
 figlet -c Welcome  
 date | lolcat
-echo -e "YOUTUBE CHANNEL  : \n www.youtube.com/c/scriptkiddietelugu" | lolcat
+echo -e "YOUTUBE CHANNEL  : \n www.youtube.com/c/eswarmani kinemaster " | lolcat
 echo "-----------------------------------" | lolcat
-echo "Follow Me On Instagram :itz_r00tbyte" | lolcat
+echo "Follow Me On Instagram :eswarmani056" | lolcat
